@@ -30,13 +30,3 @@ The course includes interactive sessions and breaks to facilitate better underst
 
 ### Exam
 At the end of the course, there will be a multiple-choice exam to assess your understanding of the material covered.
-
----
-
-## Repository Structure
-
-- **/lectures**: Contains slides and notes for each lecture.
-- **/assignments**: Homework assignments and projects.
-- **/readings**: Suggested readings and reference materials.
-- **/exam**: Sample questions and exam preparation materials.
-
